@@ -1,0 +1,28 @@
+{
+  "ru": {
+    "name": "Русский 🇷🇺",
+    "setLanguage": "Здесь вы можете выбрать язык:",
+    "languageChosen": "Вы выбрали русский язык!",
+    "hello": "Привет! Я телеграм бот для отправки уведомлений из Redmine. Для продолжения, пожалуйста, отправьте мне домен своего Redmine",
+    "setDomain": "Введите домен своего Redmine",
+    "setAPI": "Введите свой ключ API. Вы можете найти его здесь: ",
+    "connectionError": "Что-то пошло не так. Убедитесь, что вы ввели все верно",
+    "setProject": "Выберите проект: ",
+    "projectChosen": "Проект выбран",
+    "setupComplete": "Настройка завершена!",
+    "newTask": "Статус: {task_status}\nЗадача №{task_id}\n{task_subject}\nПриоритетность: {task_priority}\n{task_description}\n{task_link}"
+  },
+  "default": {
+    "name": "English 🇬🇧",
+    "setLanguage": "You can change your language here:",
+    "languageChosen": "You've chosen English!",
+    "hello": "Hi! I'm a telegram bot designed to send you notifications from Redmine. Please, send me your Redmine domain",
+    "setDomain": "Please, enter your Redmine domain",
+    "setAPI": "Please, enter your Redmine API key. You can find it here: ",
+    "connectionError": "Something went wrong. Make sure your credentials are valid",
+    "setProject": "Please, chose your project: ",
+    "projectChosen": "Project chosen",
+    "setupComplete": "Setup complete!",
+    "newTask": "Status: {task_status}\nTask #{task_id}\n{task_subject}\nPriority: {task_priority}\n{task_description}\n{task_link}"
+  }
+}
