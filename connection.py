@@ -21,7 +21,7 @@ def connect_telebot() -> None:
         import telebot
 
     
-    API = '6576716707:AAHbz6qq2nb26bGGuwxvIQzhAH6WtJjAs8Q' # input('Enter your telegram API key: ')
+    API = input('Enter your telegram API key: ')
     global BOT
     BOT = telebot.TeleBot(API)
     if BOT:
